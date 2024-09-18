@@ -1,0 +1,1 @@
+D:\bi\AulaMVVMHTTPClient\AulaMVVMHTTPClient\AulaMVVMHTTPClient.csproj;x64
